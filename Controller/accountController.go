@@ -1,9 +1,9 @@
 package Controller
 
 import (
+	d "github.com/Nian-code/Finances/DTO"
+	"github.com/Nian-code/Finances/Services"
 	"github.com/gin-gonic/gin"
-	d "github/nian-code/finances/DTO"
-	"github/nian-code/finances/Services"
 	"net/http"
 )
 

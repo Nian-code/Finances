@@ -2,9 +2,9 @@ package Services
 
 import (
 	"errors"
-	q "github/nian-code/finances/DB"
-	d "github/nian-code/finances/DTO"
-	e "github/nian-code/finances/Entity"
+	q "github.com/Nian-code/Finances/DB"
+	d "github.com/Nian-code/Finances/DTO"
+	e "github.com/Nian-code/Finances/Entity"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 
