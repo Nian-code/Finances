@@ -1,10 +1,10 @@
 package main
 
 import (
+	"github.com/Nian-code/Finances/Controller"
+	"github.com/Nian-code/Finances/Services"
+	"github.com/Nian-code/Finances/modules"
 	"github.com/gin-gonic/gin"
-	"github/nian-code/finances/Controller"
-	"github/nian-code/finances/Services"
-	"github/nian-code/finances/modules"
 	"net/http"
 )
 
