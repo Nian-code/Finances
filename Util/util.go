@@ -1,4 +1,4 @@
-package main
+package Util
 
 import (
 	e "github.com/Nian-code/Finances/Entity"

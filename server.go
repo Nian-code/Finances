@@ -27,5 +27,7 @@ func main()  {
 	server.PUT("/add/money/account", accountController.AddMoneyAccountByName)
 
 	defer server.Run(":8080")
+
+
 }
 
