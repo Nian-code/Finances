@@ -1,7 +1,7 @@
 package main
 
 import (
-	e "github/nian-code/finances/Entity"
+	e "github.com/Nian-code/Finances/Entity"
 	"go.mongodb.org/mongo-driver/bson"
 )
 

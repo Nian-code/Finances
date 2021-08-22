@@ -1,7 +1,7 @@
 package DB
 
 import (
-	"github/nian-code/finances/Util"
+	"github.com/Nian-code/Finances/Util"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"log"
